@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kavita!! (˶>⩊<˶)</h1>
+# Hi, I'm Kavita!! (˶>⩊<˶)
 I am currently studying **Software Engineering Technology** at **Politeknik Negeri Batam**, specializing in **UI/UX Design** and **Web Development**. I focus on creating intuitive, user-centered digital experiences and bringing them to life with clean, modern web technologies.
 <br><br>**💡 Core Interests & Skills:**<br>
 **UI/UX Design:** User-centered design (UCD), wireframing, prototyping, and crafting seamless interactive user interfaces.<br>
